@@ -10,7 +10,7 @@ Gianluca Azzollini
 Alberto Carlo Maria Mancino
 
 **Contacts** <br/>
-We are happy to help you with any question. Please contact us on our mails:
+We are happy to help you with any question. Please contact us on our mails: <br/>
 sergio05.abascia@gmail.com
 azzollinigianluca@gmail.com
 alberto.mancino94@gmail.com
