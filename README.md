@@ -15,4 +15,6 @@ sergio05.abascia@gmail.com <br/>
 azzollinigianluca@gmail.com <br/>
 alberto.mancino94@gmail.com <br/>
 
-<img src="https://github.com/azzollinigianluca95/Word-Embedding-applied-on-literary-works/blob/master/screenshot1.png" width="248">
+<img src="https://github.com/azzollinigianluca95/Word-Embedding-applied-on-literary-works/blob/master/screenshot1.png" width="348">
+
+<img src="https://github.com/azzollinigianluca95/Word-Embedding-applied-on-literary-works/blob/master/screenshot2.png" width="348">
