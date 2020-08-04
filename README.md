@@ -18,5 +18,5 @@ alberto.mancino94@gmail.com <br/>
 
 ![test](https://github.com/favicon.ico)
 
-![alt text](https://github.com/azzollinigianluca95/Word-Embedding-applied-on-literary-works/blob/master/screenshot1.png <img src="image" width="40%">)  <br/> 
-![alt text](https://github.com/azzollinigianluca95/Word-Embedding-applied-on-literary-works/blob/master/screenshot2.png <img src="image" width="40%">)  <br/> 
+![alt text](https://github.com/azzollinigianluca95/Word-Embedding-applied-on-literary-works/blob/master/screenshot1.png)  <br/> 
+![alt text](https://github.com/azzollinigianluca95/Word-Embedding-applied-on-literary-works/blob/master/screenshot2.png)  <br/> 
