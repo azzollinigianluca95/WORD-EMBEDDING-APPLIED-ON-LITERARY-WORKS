@@ -14,7 +14,8 @@ We are happy to help you with any question. Please contact us on our mails: <br/
 sergio05.abascia@gmail.com <br/>
 azzollinigianluca@gmail.com <br/>
 alberto.mancino94@gmail.com <br/>
-
+<br/>
+<br/>
 
 
 <img src="https://github.com/azzollinigianluca95/Word-Embedding-applied-on-literary-works/blob/master/screenshot1.png" width="348">
