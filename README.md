@@ -5,7 +5,7 @@ Given a word, detecting all other words having similar meaning in a given litera
 Sergio Abascià, Gianluca Azzollini, Alberto Carlo  Maria Mancino
 
 **Developers** <br/>
-Sergio Abascià
+Sergio Abascià  <br/>
 Gianluca Azzollini <br/>
 Alberto Carlo Maria Mancino <br/>
 
