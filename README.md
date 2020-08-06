@@ -1,14 +1,15 @@
 **WORD EMBEDDING APPLIED ON LITERARY WORKS** <br/> 
 Given a word, detecting all other words having similar meaning in a given literary work, using Word2Vec algorithm and Apache Spark enviroment. 
 
-The analyzer takes in input literary works as text files, grouped by their literary period and applies preprocessing removing useless spaces and step-words.
-Then, given a word in input, it finds other words with similar meaning for each literary period. There's no limit of works which can be loaded for each period.
+The analyzer takes in input literary works as text files, grouped by their literary period and applies preprocessing removing useless spaces and step-words. </br>
+Then, given a word in input, it finds other words with similar meaning for each literary period. </br>
+There's no limit of works which can be loaded for each period.
 
 In output the best results for each period are shown, making possible to compare how the same word can change its meaning during different literary periods.
 
-The system was implemented on a simulated distributed system using Apache Spark.
-The similarity word search is implemented using the word embedding technique known as 'word vector'.
-Then a 'Word2Vec' algorithm with a 'SkipGram' model computes the similarity factors.
+The system was implemented on a simulated distributed system using Apache Spark. </br>
+The similarity word search is implemented using the word embedding technique known as 'word vector'. </br>
+Then a 'Word2Vec' algorithm with a 'SkipGram' model computes the similarity factors. </br>
 At the end, words are sorted respect to their similarity factor.
 
 The exploited model is included in the Mlib library of the Apache Spark framework.
